@@ -1,2 +1,2 @@
 # portopholio
-land page for automation business 
+Security & Dependency Awareness: Proyek ini dibangun dengan pendekatan minimalis menggunakan library pihak ketiga. Seluruh interaksi UI, termasuk efek pengetikan simulasi AI, dikodekan secara native menggunakan React State & Hooks bawaan. Hal ini dilakukan sengaja untuk memastikan performa maksimal dan memitigasi risiko serangan keamanan rantai pasokan (supply chain malware attack) yang kerap menyerang library pihak ketiga akhir-akhir ini
